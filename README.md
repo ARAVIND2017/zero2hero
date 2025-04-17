@@ -4,7 +4,7 @@ Zero to Hero Waste Management
 🌍 Project Overview
 Zero to Hero Waste Management is an AI-powered sustainability project designed to transform waste into valuable resources. The platform leverages Next.js 14, Google Gemini AI, Web3Auth, and Neon Database to provide a seamless waste classification, tracking, and analysis system.
 
-'''
+```
 🚀 Technologies Used
 
 Next.js 14 – Frontend framework for a fast, scalable web app,
@@ -19,8 +19,8 @@ Web3Auth – Blockchain-based authentication system,
 
 Neon Database – Cloud-based PostgreSQL database for scalable data storage..
 
-'''
-'''
+```
+```
 
 🎯 Key Features
 
@@ -33,7 +33,7 @@ Neon Database – Cloud-based PostgreSQL database for scalable data storage..
 ✅ Scalable cloud storage – Stores and manages data using Neon Database,
 
 ✅ User-friendly interface – Built with Next.js 14 and TailwindCSS...
-'''
+```
 
 📸 Screenshots
 .
